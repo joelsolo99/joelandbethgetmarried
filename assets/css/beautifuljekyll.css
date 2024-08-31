@@ -1111,10 +1111,7 @@ pre {
 
 #nav-search-icon {
   display: inline-block;
-}
-#nav-search-text {
-  display: none;
-}
+}}
 
 @media (max-width: 1199px) {
   #nav-search-icon {
