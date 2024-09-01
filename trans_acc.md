@@ -42,8 +42,8 @@ subtitle: How to get there and where to stay
 ### Getting to the Wedding Venue
 
 <div class="contact-info">
-- **Ceremony:** Minstead Lodge, Minstead, New Forest, UK  
-- **Reception:** Smallacres, Brownhill Road, New Milton BH25 5TT
+  <h4>Ceremony</h4> <p>Minstead Lodge, Minstead, New Forest, UK</p>
+  <h4>Reception</h4> <p>Smallacres, Brownhill Road, New Milton BH25 5TT</p>
 </div>
 
 ### If you need a taxi...
