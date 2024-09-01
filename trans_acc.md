@@ -47,26 +47,30 @@ subtitle: How to get there and where to stay
 </div>
 
 ### If you need a taxi...
-
-<div class="contact-info">
-- **New Forest Taxis**  
-  Phone: 02380 170750  
-  Website: <a href="http://www.newforest-taxis.co.uk/" target="_blank">New Forest Taxis</a>
   
-- **Galleon Taxis**  
-  Phone: 01425 622222  
-  Website: <a href="https://www.galleontaxis.co.uk/" target="_blank">Galleon Taxis</a>
+  <div class="contact-infot">
+  <h4>New Forest Taxis</h4>
+  <p>Phone: 02380 170750 </p>
+  <p>Website: <a href="http://www.newforest-taxis.co.uk/" target="_blank">New Forest Taxis</a></p>
+</div>
 
-- **Ashley Cars**  
-  Phone: 01425 600000  
-  Website: <a href="http://www.newmilton-taxis.co.uk" target="_blank">newmilton-taxis.co.uk</a>
+  <div class="contact-infot">
+  <h4>Galleon Taxis</h4>
+  <p>Phone:01425 622222 </p>
+  <p>Website: <a href="https://www.galleontaxis.co.uk/" target="_blank">Galleon Taxis</a></p>
+</div>
+  
+  <div class="contact-infot">
+  <h4>Ashley Cars</h4>
+  <p>Phone:01425 600000 </p>
+  <p>Website: <a href="http://www.newmilton-taxis.co.uk" target="_blank">Ashley Cars</a></p>
 </div>
 
 ### Hotels Nearby
 
 <div class="subtitle">We’ve compiled a list of nearby hotels to suit a range of preferences and budgets.</div>
 
-#### Luxury Hotels
+### Luxury Hotels
 
 <div class="hotel-list">
   <h4>Chewton Glen Hotel & Spa</h4>
@@ -98,7 +102,7 @@ subtitle: How to get there and where to stay
   <p>Website: <a href="https://www.handpickedhotels.co.uk/rhinefieldhouse" target="_blank">handpickedhotels.co.uk</a></p>
 </div>
 
-#### Affordable Hotels
+### Affordable Hotels
 
 <div class="hotel-list">
   <h4>Premier Inn Lymington</h4>
