@@ -12,105 +12,68 @@ subtitle: How to get there and where to stay
 ### If you need a taxi...
 
 - **New Forest Taxis**
-  - Phone: 01590 676676
-  - Website: [newforesttaxis.com](http://www.newforesttaxis.com)
+  - Phone: 02380 170750
+  - Website: [New Forest Taxis](http://www.newforest-taxis.co.uk/){:target="_blank"}
 
-- **Forest Cars**
-  - Phone: 01425 654321
-  - Website: [forestcarsnewmilton.co.uk](http://www.forestcarsnewmilton.co.uk)
+- **Galleon Taxis**
+  - Phone: 01425 622222
+  - Website: [Galleon Taxis](https://www.galleontaxis.co.uk/){:target="_blank"}
 
-- **New Milton Taxis**
-  - Phone: 01425 611111
-  - Website: [newmilton-taxis.co.uk](http://www.newmilton-taxis.co.uk)
+- **Ashley Cars**
+  - Phone: 01425 600000
+  - Website: [newmilton-taxis.co.uk](http://www.newmilton-taxis.co.uk){:target="_blank"}
 
 ### Hotels Nearby
 
 #### Luxury Hotels
 
+- **Chewton Glen Hotel & Spa**
+  - Address: Christchurch Rd, New Milton BH25 6QS
+  - Website: [chewtonglen.com](https://www.chewtonglen.com){:target="_blank"}
+
 - **Careys Manor Hotel & SenSpa**
   - Address: Lyndhurst Rd, Brockenhurst SO42 7RH
-  - Phone: 01590 624467
-  - Website: [careysmanor.com](https://www.careysmanor.com)
+  - Website: [careysmanor.com](https://www.careysmanor.com){:target="_blank"}
 
 - **Balmer Lawn Hotel**
   - Address: Lyndhurst Rd, Brockenhurst SO42 7ZB
-  - Phone: 01590 623116
-  - Website: [balmerlawnhotel.com](https://www.balmerlawnhotel.com)
-
-- **The Pig**
-  - Address: Beaulieu Rd, Brockenhurst SO42 7QL
-  - Phone: 01590 622354
-  - Website: [thepighotel.com](https://www.thepighotel.com)
+  - Website: [balmerlawnhotel.com](https://www.balmerlawnhotel.com){:target="_blank"}
 
 - **New Park Manor Hotel & Spa**
   - Address: Lyndhurst Rd, Brockenhurst SO42 7QH
-  - Phone: 01590 623467
-  - Website: [newparkmanorhotel.co.uk](https://www.newparkmanorhotel.co.uk)
+  - Website: [newparkmanorhotel.co.uk](https://www.newparkmanorhotel.co.uk){:target="_blank"}
 
 - **Rhinefield House Hotel**
   - Address: Rhinefield Rd, Brockenhurst SO42 7QB
-  - Phone: 01590 622922
-  - Website: [handpickedhotels.co.uk](https://www.handpickedhotels.co.uk/rhinefieldhouse)
+  - Website: [handpickedhotels.co.uk](https://www.handpickedhotels.co.uk/rhinefieldhouse){:target="_blank"}
 
-- **Chewton Glen Hotel & Spa**
-  - Address: Christchurch Rd, New Milton BH25 6QS
-  - Phone: 01425 275341
-  - Website: [chewtonglen.com](https://www.chewtonglen.com)
-
-- **The Montagu Arms Hotel**
-  - Address: Beaulieu, New Forest SO42 7ZL
-  - Phone: 01590 612324
-  - Website: [montaguarmshotel.co.uk](https://www.montaguarmshotel.co.uk)
-
-- **Lime Wood Hotel**
-  - Address: Beaulieu Rd, Lyndhurst SO43 7FZ
-  - Phone: 023 8028 7177
-  - Website: [limewoodhotel.co.uk](https://www.limewoodhotel.co.uk)
-
-#### Affordable Hotels'
-
-- **Passford House Hotel**
-  - Address: Mount Pleasant Ln, Lymington SO41 8LS
-  - Phone: 01590 682398
-  - Website: [passfordhousehotel.co.uk](https://www.passfordhousehotel.co.uk)
-
-- **Stanwell House Hotel**
-  - Address: 14-15 High St, Lymington SO41 9AA
-  - Phone: 01590 677123
-  - Website: [stanwellhouse.com](https://www.stanwellhouse.com)
-
-- **South Lawn Hotel**
-  - Address: Lymington Rd, Milford on Sea, Lymington SO41 0RF
-  - Phone: 01590 643911
-  - Website: [southlawnhotel.co.uk](https://www.southlawnhotel.co.uk)
+#### Affordable Hotels
 
 - **Premier Inn Lymington**
   - Address: 135 Southampton Rd, Lymington SO41 9HA
-  - Phone: 0333 777 3949
-  - Website: [premierinn.com](https://www.premierinn.com)
-
-- **East Close Hotel**
-  - Address: Lyndhurst Rd, Hinton, Christchurch BH23 7EF
-  - Phone: 01425 672404
-  - Website: [eastclose.com](https://www.eastclose.com)
-
-- **Travelodge Lymington**
-  - Address: 121 Southampton Rd, Lymington SO41 9HA
-  - Phone: 0871 984 6282
-  - Website: [travelodge.co.uk](https://www.travelodge.co.uk)
-
-- **The White House**
-  - Address: 428 Lymington Rd, Highcliffe, Christchurch BH23 5HF
-  - Phone: 01425 273319
-  - Website: [thewhitehousechristchurch.co.uk](https://www.thewhitehousechristchurch.co.uk)
+  - Website: [Premier Inn Lymington](https://www.premierinn.com/gb/en/hotels/england/hampshire/lymington/lymington-new-forest-hordle.html){:target="_blank"}
   
-- **Premier Inn New Forest**
-  - Address: Ringwood Rd, New Milton BH25 5SZ
-  - Phone: 0333 321 1385
-  - Website: [premierinn.com](https://www.premierinn.com)
+- **Premier Inn Christchurh**
+  - Address: Somerford Road, Dorset, BH23 3QG
+  - Website: [Premier Inn Christchurch](https://www.premierinn.com/gb/en/hotels/england/dorset/christchurch/christchurch-east.html?cid=GLBC_CHRSOM){:target="_blank"}
+  
+- **Premier Inn Ringwood**
+  - Address: Forest Gate Business Park, Ringwood, BH24 3FH
+  - Website: [Premier Inn Christchurch](https://www.premierinn.com/gb/en/hotels/england/hampshire/ringwood/ringwood.html?cid=GLBC_RINFOR){:target="_blank"}
+
+- **Travelodge Lyndhurst**
+  - Address: Rufus Stone Services, Stoney Cross,Lyndhurst SO43 7GN, UK 
+  - Website: [Travelodge Lyndhurst](https://www.travelodge.co.uk/hotels/55/Stoney-Cross-Lyndhurst-hotel?WT_tsrc=GHA_Organic){:target="_blank"}
+
+- **Travelodge Ringwood**
+  - Address: St Leonards, Ringwood, BH24 2NR, UK 
+  - Website: [Travelodge Ringwood](https://www.travelodge.co.uk/hotels/95/Ringwood-hotel?WT_tsrc=GHA_Organic){:target="_blank"}
+
+- **Travelodge Christchurch**
+  - Address: Saxon Square, Fountain Roundabout, Christchurch BH23 1QN
+  - Website: [Travelodge Christchurch](https://www.travelodge.co.uk/hotels/586/Christchurch-hotel?WT.tsrc=GHA_Organic){:target="_blank"}
   
 ### Travel Tips
 
 - **Parking:** Parking is available at both the ceremony and reception venues.
 - **Public Transport:** The nearest train station to the reception venue is New Milton.
-
