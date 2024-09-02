@@ -63,7 +63,7 @@ subtitle: How to get there and where to stay
   <div class="contact-infot">
   <h4>Ashley Cars</h4>
   <p>Phone:01425 600000 </p>
-  <p>Website: <a href="http://www.newmilton-taxis.co.uk" target="_blank">Ashley Cars</a></p>
+  <p>Website: <a href="http://www.goashleycars.co.uk/" target="_blank">Ashley Cars</a></p>
 </div>
 
 ### Hotels Nearby
