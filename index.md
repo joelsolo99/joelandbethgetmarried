@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Home
-subtitle: Joel and Beth get Married!
+title: Joel and Beth get Married!
 permalink: /
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RSVP Form
-subtitle: Can you come? What are your food preferences? Do you need help getting there? Let us know here!
+subtitle: Can you come? What are your food preferences?  Let us know here! Make sure you fill out a separate form for each person attending.
 ---
 
 
