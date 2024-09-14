@@ -15,6 +15,7 @@ Beautiful Jekyll is a popular Jekyll theme that offers a clean, modern design an
 If you’re looking to create your own wedding website or any other kind of personal site, feel free to fork this repository and modify it to suit your needs.
 
 ### Steps to Get Started
+ fork this repository and modify it to suit your needs.
 
 1. **Fork this Repository**: Click on the 'Fork' button at the top right corner of this page to create a copy of this repository under your own GitHub account.
 2. **Clone the Repository**: Clone the forked repository to your local machine using `git clone`.
@@ -41,5 +42,3 @@ This project is open source and available under the [MIT Licence](LICENSE). You 
 ## Get in Touch
 
 If you have any questions or need help setting up your own site, feel free to open an issue in this repository or contact us directly.
-
-**Happy coding!**
