@@ -140,54 +140,17 @@ subtitle: How to get there and where to stay
   <p>Website: <a href="https://www.travelodge.co.uk/hotels/586/Christchurch-hotel?WT.tsrc=GHA_Organic" target="_blank">Travelodge Christchurch</a></p>
 </div>
 
-.travel-tips {
-  margin-top: 30px;
-}
-
-.travel-tips h4 {
-  color: #008080;
-  border-bottom: 2px solid #d5ffff;
-  padding-bottom: 5px;
-  margin-top: 20px;
-}
-
-.travel-tips ul {
-  list-style-type: none;
-  padding-left: 0;
-  margin-top: 10px;
-}
-
-.travel-tips li {
-  margin-bottom: 10px;
-  font-size: 0.95em;
-  color: #004d4d;
-}
-
-.travel-tips li strong {
-  color: #008080;
-  font-weight: bold;
-}
-
-.travel-tips p {
-  margin: 0;
-  font-size: 0.9em;
-}
-
-.travel-tips a {
-  color: #008080;
-  text-decoration: none;
-}
-
-.travel-tips a:hover {
-  text-decoration: underline;
-}
-
-<div class="travel-tips">
-  <h4>Travel Tips</h4>
-  <ul>
-    <li><strong>Parking:</strong> Parking is available at both the ceremony and reception venues.</li>
-    <li><strong>Public Transport:</strong> The nearest train station to the reception venue is New Milton.</li>
-    <li><strong>Car Sharing:</strong> If you know of other people coming from your direction, see if you can share your car/get a lift with them. If you don't know if there's anyone from your area coming, feel free to ask one of us and we'll see if we can sort something out for you.</li>
+<div style="margin-top: 30px;">
+  <h4 style="color: #008080; border-bottom: 2px solid #d5ffff; padding-bottom: 5px; margin-top: 20px;">Travel Tips</h4>
+  <ul style="list-style-type: none; padding-left: 0; margin-top: 10px;">
+    <li style="margin-bottom: 10px; font-size: 0.95em; color: #004d4d;">
+      <strong style="color: #008080; font-weight: bold;">Parking:</strong> Parking is available at both the ceremony and reception venues.
+    </li>
+    <li style="margin-bottom: 10px; font-size: 0.95em; color: #004d4d;">
+      <strong style="color: #008080; font-weight: bold;">Public Transport:</strong> The nearest train station to the reception venue is New Milton.
+    </li>
+    <li style="margin-bottom: 10px; font-size: 0.95em; color: #004d4d;">
+      <strong style="color: #008080; font-weight: bold;">Car Sharing:</strong> If you know of other people coming from your direction, see if you can share your car/get a lift with them. If you don't know if there's anyone from your area coming, feel free to ask one of us and we'll see if we can sort something out for you.
+    </li>
   </ul>
 </div>
-
