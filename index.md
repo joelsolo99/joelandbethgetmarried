@@ -7,15 +7,15 @@ permalink: /
 <div class="container">
   <h1>You're Invited!</h1>
 
-  <p>Hello! If you're reading this, you've been invited to our wedding.</p>
+  <p>Hello! If you're reading this, you've been invited to our wedding. Write down the date!</p>
   <p class="rsvp-reminder">Don't forget to let us know whether you can make it in the RSVP section in the top right!</p>
 
   <p class="date">17th August 2025</p>
 
-  <p class="important-info">The ceremony will be at 1 PM at Minstead Lodge, followed by the reception at:</p>
+  <p class="important-info">The ceremony will be at Minstead Lodge, followed by the reception at:</p>
   <p class="location">Smallacres, Brownhill Road BH25 5TT</p>
 
-  <p>Hopefully, all the information you need for how to get there and where to stay is on this website. We'll see you soon!</p>
+  <p>Hopefully, all the information you need for how to get there and where to stay is on this website. We'll see you soon! </p>
 </div>
 
 <style>
