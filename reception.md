@@ -6,4 +6,4 @@ subtitle: (There will be a very large marquee)
 
 
 
-![Smallacres]("/assets/img/reception.jpeg"){: .mx-auto.d-block :}
+![Smallacres]({{ site.baseurl }}/assets/img/reception.jpeg){: .mx-auto.d-block :}
