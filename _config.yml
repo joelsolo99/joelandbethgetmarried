@@ -20,7 +20,8 @@ author: Joel and Beth
 ###############################################
 
 navbar-links:
-  The Venue:  "venue"
+  The Ceremony:  "ceremony"
+  The Reception: "reception"
   Accommodation and Travel: "trans_acc"
   RSVP: "RSVP"
 
