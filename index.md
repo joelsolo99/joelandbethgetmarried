@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Joel and Beth get Married!
 permalink: /
 ---
 
@@ -11,7 +10,7 @@ permalink: /
   </div>
 
   <div class="info-box">
-    <p>17th August 2025</p>
+    <p class="date">17th August 2025</p>
     <p>We're looking forward to seeing you on our special day.<br>
     Please RSVP to let us know if you're coming & what your dietary restrictions are.</p>
     <p>Feel free to browse this website for useful information. We hope to see you soon!</p>
@@ -53,20 +52,22 @@ permalink: /
     margin: 0;
     font-weight: lighter;
   }
+  /* Swirl patterns for the logo */
   .logo:before, .logo:after {
     content: '';
     position: absolute;
     top: 50%;
-    width: 50px;
-    height: 5px;
-    background: gold;
+    width: 70px;
+    height: 50px;
+    background: url('https://cdn.pixabay.com/photo/2012/04/11/17/30/swirls-28868_960_720.png') no-repeat center;
+    background-size: contain;
     transform: translateY(-50%);
   }
   .logo:before {
-    left: -60px;
+    left: -90px;
   }
   .logo:after {
-    right: -60px;
+    right: -90px;
   }
   .info-box {
     background-color: #008080;
@@ -81,5 +82,10 @@ permalink: /
     color: #404040;
     margin: 10px 0;
     line-height: 1.6;
+  }
+  .info-box .date {
+    font-size: 2.5em;
+    color: #f0f0f0;
+    margin-bottom: 10px;
   }
 </style>
