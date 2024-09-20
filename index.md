@@ -13,7 +13,7 @@ permalink: /
     <p class="date">17th August 2025</p>
     <p>We're looking forward to seeing you on our special day.<br>
     Please RSVP to let us know if you're <br>
-    coming & what your dietary restrictions are.</p>
+    coming & whether you have any dietary restrictions.</p>
     <p>Feel free to browse this website for useful information. We hope to see you soon!</p>
   </div>
 </div>
