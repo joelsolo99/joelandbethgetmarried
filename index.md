@@ -24,7 +24,7 @@ permalink: /
     background-color: #f0f0f0;
     margin: 0;
     padding: 20px;
-    color: #404040;
+    color: #d5ffff;
   }
   .container {
     max-width: 900px;
