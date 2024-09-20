@@ -80,7 +80,7 @@ permalink: /
     font-size: 1.2em;
   }
   .info-box p {
-    color: #404040;
+    color: #d5ffff;
     margin: 10px 0;
     line-height: 1.6;
   }
