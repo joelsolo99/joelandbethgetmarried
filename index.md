@@ -7,6 +7,10 @@ permalink: /
   <div class="logo">
     <h1>Joel & Beth</h1>
     <h2>get married!</h2>
+    <div class="swirls">
+      <img src="https://cdn.pixabay.com/photo/2013/07/13/12/33/golden-160873_960_720.png" alt="Gold Swirls" class="left-swirl"/>
+      <img src="https://cdn.pixabay.com/photo/2013/07/13/12/33/golden-160873_960_720.png" alt="Gold Swirls" class="right-swirl"/>
+    </div>
   </div>
 
   <div class="info-box">
@@ -53,22 +57,18 @@ permalink: /
     margin: 0;
     font-weight: lighter;
   }
-  /* Swirl patterns for the logo */
-  .logo:before, .logo:after {
-    content: '';
-    position: absolute;
-    top: 50%;
-    width: 70px;
-    height: 50px;
-    background: url('https://cdn.pixabay.com/photo/2012/04/11/17/30/swirls-28868_960_720.png') no-repeat center;
-    background-size: contain;
-    transform: translateY(-50%);
+  .swirls {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
   }
-  .logo:before {
-    left: -90px;
+  .swirls img {
+    width: 100px;
+    height: auto;
   }
-  .logo:after {
-    right: -90px;
+  .left-swirl {
+    transform: rotateY(180deg); /* Flips the left swirl */
   }
   .info-box {
     background-color: #008080;
