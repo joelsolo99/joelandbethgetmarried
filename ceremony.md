@@ -4,8 +4,6 @@ title: Minstead Lodge
 subtitle: Our Wedding Venue in the New Forest
 ---
 
-We have decided to get married in Minstead Lodge, in the New Forest. Apologies if that's quite far away from you, but most people are either coming all the way from Plymouth or all the way from Essex, so the New Forest is a good compromise (plus it's a beautiful location and where Joel's family live.)
-
 # Where to find it
 
 
