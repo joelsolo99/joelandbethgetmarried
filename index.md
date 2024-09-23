@@ -7,10 +7,6 @@ permalink: /
   <div class="logo">
     <h1>Joel & Beth</h1>
     <h2>get married!</h2>
-    <div class="swirls">
-      <img src="https://cdn.pixabay.com/photo/2013/07/13/12/33/golden-160873_960_720.png" alt="Gold Swirls" class="left-swirl"/>
-      <img src="https://cdn.pixabay.com/photo/2013/07/13/12/33/golden-160873_960_720.png" alt="Gold Swirls" class="right-swirl"/>
-    </div>
   </div>
 
   <div class="info-box">
