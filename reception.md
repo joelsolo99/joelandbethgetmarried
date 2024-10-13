@@ -29,7 +29,7 @@ subtitle: (There will be a very large marquee)
 <style>
   body {
     font-family: 'Arial', sans-serif;
-    background-color: #d5ffff;
+    background-color: #f0f0f0;
     margin: 0;
     padding: 20px;
     color: #008080;
