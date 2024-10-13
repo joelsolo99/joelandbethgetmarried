@@ -39,9 +39,9 @@ permalink: /
     margin-bottom: 20px;
     position: relative;
   }
-  .logo h1 {
+  .logo h1, .logo h2 {
     font-size: 4em;
-    color: #008080;
+    color: #d5ffff; /* Changed to match the rest of the text */
     margin: 0;
     font-weight: bold;
     display: inline-block;
@@ -49,22 +49,7 @@ permalink: /
   }
   .logo h2 {
     font-size: 2em;
-    color: #008080;
-    margin: 0;
     font-weight: lighter;
-  }
-  .swirls {
-    position: relative;
-    display: flex;
-    justify-content: space-between;
-    margin-top: 10px;
-  }
-  .swirls img {
-    width: 100px;
-    height: auto;
-  }
-  .left-swirl {
-    transform: rotateY(180deg); /* Flips the left swirl */
   }
   .info-box {
     background-color: #008080;
