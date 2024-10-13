@@ -5,11 +5,6 @@ subtitle: Can you come? What are your food preferences? Let us know here! Please
 ---
 
 
----
-layout: page
-title: RSVP
-subtitle: Let us know if you can attend!
----
 
 <div class="container">
   <div class="rsvp-form">
