@@ -6,14 +6,13 @@ subtitle: How to get there and where to stay
 
 <div class="container">
   <div class="travel-info">
-    <h1>Accommodation and Travel</h1>
-    <h2 class="subtitle">How to get there and where to stay</h2>
     <h3>Transportation Options</h3>
     <ul>
       <li><strong>Parking:</strong> Parking is available at both the ceremony and reception venues.</li>
       <li><strong>Public Transport:</strong> The nearest train station to the reception venue is New Milton.</li>
       <li><strong>Car Sharing:</strong> If you know of other people coming from your direction, see if you can share your car or get a lift with them. If you're unsure, feel free to ask us and we'll help arrange something.</li>
     </ul>
+    <hr>
     <h3>Getting to the Wedding Venue</h3>
     <div class="contact-info">
       <h4>Ceremony</h4>
@@ -21,6 +20,7 @@ subtitle: How to get there and where to stay
       <h4>Reception</h4>
       <p>Smallacres, Brownhill Road, New Milton BH25 5TT</p>
     </div>
+    <hr>
     <h3>If you need a taxi...</h3>
     <div class="contact-info">
       <h4>New Forest Taxis</h4>
@@ -37,8 +37,9 @@ subtitle: How to get there and where to stay
       <p>Phone: 01425 600000</p>
       <p>Website: <a href="http://www.goashleycars.co.uk/" target="_blank">Ashley Cars</a></p>
     </div>
+    <hr>
     <h3>Hotels Nearby</h3>
-    <div class="subtitle">We\u2019ve compiled a list of nearby hotels to suit a range of preferences and budgets.</div>
+    <div class="subtitle">We've compiled a list of nearby hotels to suit a range of preferences and budgets.</div>
     <h3>Luxury Hotels</h3>
     <div class="hotel-list">
       <h4>Chewton Glen Hotel & Spa</h4>
@@ -65,6 +66,7 @@ subtitle: How to get there and where to stay
       <p>Address: Rhinefield Rd, Brockenhurst SO42 7QB</p>
       <p>Website: <a href="https://www.handpickedhotels.co.uk/rhinefieldhouse" target="_blank">handpickedhotels.co.uk</a></p>
     </div>
+    <hr>
     <h3>Affordable Hotels</h3>
     <div class="hotel-list">
       <h4>Premier Inn Lymington</h4>
@@ -110,6 +112,12 @@ subtitle: How to get there and where to stay
   h1, h3 {
     color: #008080; /* Use the title color as requested */
   }
+  hr {
+    border: 0;
+    height: 1px;
+    background: #008080; /* Subtle dividing line color */
+    margin: 40px 0; /* Spacing for readability */
+  }
   .container {
     max-width: 900px;
     margin: 0 auto;
@@ -151,7 +159,4 @@ subtitle: How to get there and where to stay
     margin-bottom: 20px;
     text-align: left;
     max-width: 900px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .hotel-list h4, .contact-info h4
+    margin-left: auto
