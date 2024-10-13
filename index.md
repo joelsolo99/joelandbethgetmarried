@@ -41,7 +41,7 @@ permalink: /
   }
   .logo h1, .logo h2 {
     font-size: 4em;
-    color: #d5ffff; /* Changed to match the rest of the text */
+    color: #008080; /* Changed to match the rest of the text */
     margin: 0;
     font-weight: bold;
     display: inline-block;
