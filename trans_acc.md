@@ -5,6 +5,7 @@ subtitle: How to get there and where to stay
 ---
 
 <style>
+  /* General body styles */
   body {
     font-family: 'Arial', sans-serif;
     background-color: #f0f0f0;
@@ -12,69 +13,83 @@ subtitle: How to get there and where to stay
     padding: 20px;
     color: #004d4d; /* Set default text color */
   }
+
+  /* Ensure the menu bar uses default styles */
+  .menu {
+    all: unset; /* Reset styles */
+    display: flex; /* Example property */
+    justify-content: space-around; /* Example property */
+    padding: 10px; /* Example property */
+    background-color: #ffffff; /* Example property */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Example property */
+    /* Add any other styles necessary for the default look */
+  }
+
+  /* Title styles */
   h3 {
     color: #008080;
     border-bottom: 2px solid #d5ffff;
     padding-bottom: 5px;
-    text-align: left; /* Change to left alignment */
+    text-align: left; /* Keep this left-aligned */
   }
+
+  /* Travel tips and other content styles */
   .hotel-list {
     margin-bottom: 20px;
     text-align: left; /* Change to left alignment */
-    max-width: 600px; /* Add a max width to center the content */
-    margin-left: auto; /* Center the block */
-    margin-right: auto; /* Center the block */
+    max-width: 600px; /* Center the content */
+    margin-left: auto;
+    margin-right: auto;
   }
-  .hotel-list h4 {
-    color: #004d4d;
-    margin-bottom: 5px;
-  }
-  .hotel-list p {
-    margin: 0;
-    font-size: 0.9em;
-  }
+
   .contact-info {
     font-weight: bold;
     color: #004d4d;
-    text-align: left; /* Change to left alignment */
-    max-width: 600px; /* Add a max width to center the content */
-    margin-left: auto; /* Center the block */
-    margin-right: auto; /* Center the block */
+    text-align: left; /* Keep text aligned to the left */
+    max-width: 600px; /* Center the content */
+    margin-left: auto;
+    margin-right: auto;
   }
+
   .subtitle {
     color: #004d4d;
     font-style: italic;
     margin-bottom: 20px;
-    text-align: center; /* Keep subtitle center aligned */
+    text-align: left; /* Keep text aligned to the left */
+    max-width: 600px; /* Center the content */
+    margin-left: auto;
+    margin-right: auto;
   }
+
   a {
     color: #008080;
     text-decoration: none;
   }
+
   a:hover {
     text-decoration: underline;
   }
+
   ul {
     list-style-type: none;
     padding-left: 0;
     margin-top: 10px;
-    text-align: left; /* Change to left alignment */
-    max-width: 600px; /* Add a max width to center the content */
-    margin-left: auto; /* Center the block */
-    margin-right: auto; /* Center the block */
+    text-align: left; /* Keep text aligned to the left */
   }
+
   li {
     margin-bottom: 10px;
     font-size: 0.95em;
     color: #004d4d;
   }
+
   strong {
     color: #008080;
     font-weight: bold;
   }
 </style>
 
-### Travel Tips
+### Transportation Options
 
 <ul>
   <li><strong>Parking:</strong> Parking is available at both the ceremony and reception venues.</li>
