@@ -55,7 +55,7 @@ subtitle: (There will be a very large marquee)
 
   .info-box {
     background-color: #008080;
-    color: #ffffff; /* Changed to white for better readability */
+    color: #d5ffff; /* Changed to white for better readability */
     padding: 20px;
     border-radius: 8px;
     text-align: center;
