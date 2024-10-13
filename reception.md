@@ -4,11 +4,6 @@ title: Smallacres
 subtitle: (There will be a very large marquee)
 ---
 
----
-layout: page
-title: Reception
-subtitle: Celebration at Smallacres
----
 
 <div class="container">
   <div class="reception-info">
@@ -27,7 +22,7 @@ subtitle: Celebration at Smallacres
 
     <br>
 
-    ![Smallacres]({{ site.baseurl }}/assets/img/reception.jpeg){: .mx-auto.d-block :}
+    
   </div>
 </div>
 
@@ -74,3 +69,6 @@ subtitle: Celebration at Smallacres
     margin: 20px auto;
   }
 </style>
+
+
+![Smallacres]({{ site.baseurl }}/assets/img/reception.jpeg){: .mx-auto.d-block :}
