@@ -25,7 +25,7 @@ subtitle: Our Wedding Venue in the New Forest
     background-color: #f0f0f0;
     margin: 0;
     padding: 20px;
-    color: #d5ffff;
+    color: #008080;
   }
   .container {
     max-width: 900px;
@@ -37,7 +37,7 @@ subtitle: Our Wedding Venue in the New Forest
     text-align: center;
   }
   h1, p {
-    color: #d5ffff;
+    color: #008080;
   }
   .map-and-image iframe, .map-and-image img {
     width: 100%;
@@ -47,7 +47,6 @@ subtitle: Our Wedding Venue in the New Forest
   }
   .venue-info p {
     font-size: 1.2em;
-    color: #d5ffff;
     margin-bottom: 20px;
   }
 </style>

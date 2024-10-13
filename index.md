@@ -5,7 +5,7 @@ permalink: /
 
 <div class="container">
   <div class="logo">
-    <h1>Joel & Beth</h1>
+    <h1>Joel & Beth</h1><br>
     <h2>get married!</h2>
   </div>
 

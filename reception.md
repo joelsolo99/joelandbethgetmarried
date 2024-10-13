@@ -4,7 +4,6 @@ title: Smallacres
 subtitle: (There will be a very large marquee)
 ---
 
-
 ---
 layout: page
 title: Reception
@@ -38,7 +37,7 @@ subtitle: Celebration at Smallacres
     background-color: #f0f0f0;
     margin: 0;
     padding: 20px;
-    color: #d5ffff;
+    color: #008080;
   }
   .container {
     max-width: 900px;
@@ -50,7 +49,7 @@ subtitle: Celebration at Smallacres
     text-align: center;
   }
   h1, p, a {
-    color: #d5ffff;
+    color: #008080;
   }
   a {
     text-decoration: none;
@@ -66,7 +65,6 @@ subtitle: Celebration at Smallacres
   }
   .reception-info p {
     font-size: 1.2em;
-    color: #d5ffff;
     margin-bottom: 20px;
   }
   img.mx-auto.d-block {

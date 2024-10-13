@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RSVP Form
-subtitle: Can you come? What are your food preferences?  Let us know here! Please fill out a separate form for each person attending.
+subtitle: Can you come? What are your food preferences? Let us know here! Please fill out a separate form for each person attending.
 ---
 
 
@@ -26,7 +26,7 @@ subtitle: Let us know if you can attend!
     background-color: #f0f0f0;
     margin: 0;
     padding: 20px;
-    color: #d5ffff;
+    color: #008080; /* Change text color to teal */
   }
   .container {
     max-width: 900px;
@@ -38,7 +38,7 @@ subtitle: Let us know if you can attend!
     text-align: center;
   }
   h1, p {
-    color: #d5ffff;
+    color: #008080; /* Change heading and paragraph color to teal */
   }
   iframe {
     width: 100%;

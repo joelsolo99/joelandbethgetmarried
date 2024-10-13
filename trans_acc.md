@@ -4,22 +4,26 @@ title: Accommodation and Travel
 subtitle: How to get there and where to stay
 ---
 
----
-layout: page
-title: Accommodation and Travel
-subtitle: How to get there and where to stay
----
-
 <style>
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+    color: #004d4d; /* Set default text color */
+  }
   h3 {
     color: #008080;
     border-bottom: 2px solid #d5ffff;
     padding-bottom: 5px;
-    text-align: center;
+    text-align: left; /* Change to left alignment */
   }
   .hotel-list {
     margin-bottom: 20px;
-    text-align: center;
+    text-align: left; /* Change to left alignment */
+    max-width: 600px; /* Add a max width to center the content */
+    margin-left: auto; /* Center the block */
+    margin-right: auto; /* Center the block */
   }
   .hotel-list h4 {
     color: #004d4d;
@@ -32,13 +36,16 @@ subtitle: How to get there and where to stay
   .contact-info {
     font-weight: bold;
     color: #004d4d;
-    text-align: center;
+    text-align: left; /* Change to left alignment */
+    max-width: 600px; /* Add a max width to center the content */
+    margin-left: auto; /* Center the block */
+    margin-right: auto; /* Center the block */
   }
   .subtitle {
     color: #004d4d;
     font-style: italic;
     margin-bottom: 20px;
-    text-align: center;
+    text-align: center; /* Keep subtitle center aligned */
   }
   a {
     color: #008080;
@@ -51,7 +58,10 @@ subtitle: How to get there and where to stay
     list-style-type: none;
     padding-left: 0;
     margin-top: 10px;
-    text-align: center;
+    text-align: left; /* Change to left alignment */
+    max-width: 600px; /* Add a max width to center the content */
+    margin-left: auto; /* Center the block */
+    margin-right: auto; /* Center the block */
   }
   li {
     margin-bottom: 10px;
