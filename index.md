@@ -67,7 +67,7 @@ permalink: /
   }
   .info-box .date {
     font-size: 2.5em;
-    color: #f0f0f0;
+    color: #d5ffff;
     margin-bottom: 10px;
   }
 </style>

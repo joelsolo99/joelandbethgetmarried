@@ -3,7 +3,6 @@ layout: page
 title: Smallacres
 subtitle: (There will be a very large marquee)
 ---
-
 <div class="container">
   <div class="reception-info">
     <h1>Reception Details</h1>
@@ -18,3 +17,45 @@ subtitle: (There will be a very large marquee)
     <br>
   </div>
 </div>
+
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+    color: #008080;
+  }
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  h1, p {
+    color: #008080;
+  }
+  .info-box {
+    background-color: #008080;
+    color: #ffffff; /* Ensure readability */
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.2em;
+  }
+  .reception-info p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  .full-width-image {
+    width: 100%; /* Make the image full width */
+    max-width: 100%; /* Ensure it does not exceed container width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Center the image horizontally */
+    margin: 20px auto;
+  }
+</style>
